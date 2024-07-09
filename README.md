@@ -1,4 +1,4 @@
-![logo](https://github.com/aringhanshala/aringhanshala/blob/main/bg_profile_img.jpg)
+![logo](https://github.com/aringhanshala/aringhanshala/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Arin Ghanshala.</h1>
 <h3 align="center">A passionate CSE Student from India.</h3>
 
